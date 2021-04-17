@@ -1,1 +1,0 @@
-Please copy SVGImporter.cs  to Library\PackageCache\com.unity.vectorgraphics@2.0.0-preview.14\Editor
